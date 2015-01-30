@@ -1,0 +1,11 @@
+{
+  "name": "ntfy",
+  "version": "0.0.1",
+  "description": "NTFY server",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anri",
+  "license": "ISC"
+}
